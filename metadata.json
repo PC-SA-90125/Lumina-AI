@@ -1,0 +1,6 @@
+{
+  "name": "Lumina AI",
+  "description": "Short AI video generation studio powered by Google's Veo models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
